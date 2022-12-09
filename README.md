@@ -43,6 +43,7 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 ![1](https://user-images.githubusercontent.com/87584678/206748753-a4c6443f-83fc-4a68-97aa-f77c5b4d614d.png)
 
 # Schema Design
+![2](https://user-images.githubusercontent.com/87584678/206753447-f63c4c0d-c3ea-4440-b03a-3f9f4c5342a2.PNG)
 
 
 
